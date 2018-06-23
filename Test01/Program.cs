@@ -11,6 +11,7 @@ namespace Test01
         static void Main(string[] args)
         {
             // test
+            // direct　upload
         }
     }
 }
